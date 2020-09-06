@@ -72,7 +72,6 @@
 		"Japan": 0.6,
 		"Brazil": 0.1
 	},
-	"roles": [ "Guest", "User", "Moderator", "Admin", "Root" ],
 	"uptime": [{
 		"unix": 1598918400,
 		"value": 99.7
@@ -123,8 +122,5 @@
 		"title": "Test",
 		"message": "Test message",
 		"open_date": 0
-	}],
-	"profile": {
-		"name": "typicode"
-	}
+	}]
 }
