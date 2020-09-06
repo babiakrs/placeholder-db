@@ -35,6 +35,95 @@
 		"color_from": "#c9882d",
 		"color_to": "#b89a73"
 	}],
+	"users": [{
+		"firstname": "Benjamin",
+		"lastname": "Sandwich",
+		"regdate": 1568246400,
+		"role": "User"
+	}, {
+		"firstname": "John",
+		"lastname": "Lee",
+		"regdate": 1518480000,
+		"role": "User"
+	}, {
+		"firstname": "William",
+		"lastname": "McLaren",
+		"regdate": 1533081600,
+		"role": "Moderator"
+	}, {
+		"firstname": "Foo",
+		"lastname": "Bar",
+		"regdate": 1590278400,
+		"role": "Admin"
+	}, {
+		"firstname": "Jesus",
+		"lastname": "Christ",
+		"regdate": 0,
+		"role": "Root"
+	}],
+	"users_from": {
+		"Ukraine": 61.3,
+		"Russia": 17.7,
+		"Belorussia": 5.9,
+		"Poland": 10,
+		"U.K.": 2.8,
+		"USA": 1.1,
+		"China": 0.5,
+		"Japan": 0.6,
+		"Brazil": 0.1
+	},
+	"roles": [ "Guest", "User", "Moderator", "Admin", "Root" ],
+	"uptime": [{
+		"unix": 1598918400,
+		"value": 99.7
+	}, {
+		"unix": 1599004800,
+		"value": 99.9
+	}, {
+		"unix": 1599091200,
+		"value": 99.8
+	}, {
+		"unix": 1599177600,
+		"value": 99.9
+	}, {
+		"unix": 1599264000,
+		"value": 99.9
+	}, {
+		"unix": 1599350400,
+		"value": 87.1
+	}, {
+		"unix": 1599436800,
+		"value": 100
+	}, {
+		"unix": 1599523200,
+		"value": 99.6
+	}, {
+		"unix": 1599609600,
+		"value": 99.1
+	}, {
+		"unix": 1599696000,
+		"value": 99.9
+	}, {
+		"unix": 1599868800,
+		"value": 100
+	}],
+	"tickets": [{
+		"title": "Help, pls!!",
+		"message": "I need help, im retarded!",
+		"open_date": 1599137762
+	}, {
+		"title": "You have been hacked!",
+		"message": "Just kidding)",
+		"open_date": 1599271436
+	}, {
+		"title": "Spam",
+		"message": "Please, buy our shit",
+		"open_date": 1596655436
+	}, {
+		"title": "Test",
+		"message": "Test message",
+		"open_date": 0
+	}],
 	"profile": {
 		"name": "typicode"
 	}
