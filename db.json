@@ -1,0 +1,44 @@
+{[
+	{
+		"pair": "USDT/BTC",
+		"rate": 11278,
+		"color_from": "#65c92d",
+		"color_to": "#8cb873"
+	},
+	{
+		"pair": "USDT/LINK",
+		"rate": 11.717,
+		"color_from": "#c8c92d",
+		"color_to": "#b5b873"
+	},
+	{
+		"pair": "USDT/BNB",
+		"rate": 22.109,
+		"color_from": "#c92d2d",
+		"color_to": "#b87373"
+	},
+	{
+		"pair": "USDT/ETH",
+		"rate": 343.65,
+		"color_from": "#2dc3c9",
+		"color_to": "#73b6b8"
+	},
+	{
+		"pair": "USDT/LEND",
+		"rate": 0.5236,
+		"color_from": "#7e2dc9",
+		"color_to": "#9673b8"
+	},
+	{
+		"pair": "USDT/THETA",
+		"rate": 0.4018,
+		"color_from": "#c92dae",
+		"color_to": "#b873ad"
+	},
+	{
+		"pair": "USDT/LTC",
+		"rate": 47.54,
+		"color_from": "#c9882d",
+		"color_to": "#b89a73"
+	}
+]}
