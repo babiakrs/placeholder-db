@@ -61,17 +61,34 @@
 		"regdate": 0,
 		"role": "Root"
 	}],
-	"users_from": {
-		"Ukraine": 61.3,
-		"Russia": 17.7,
-		"Belorussia": 5.9,
-		"Poland": 10,
-		"U.K.": 2.8,
-		"USA": 1.1,
-		"China": 0.5,
-		"Japan": 0.6,
-		"Brazil": 0.1
-	},
+	"users_from": [{
+		"country": "Ukraine",
+		"value": 61.3
+	}, {
+		"country": "Russia",
+		"value": 17.7
+	}, {
+		"country": "Belorussia",
+		"value": 5.9
+	}, {
+		"country": "Poland",
+		"value": 10
+	}, {
+		"country": "U.K.",
+		"value": 2.8
+	}, {
+		"country": "USA",
+		"value": 1.1
+	}, {
+		"country": "China",
+		"value": 0.5
+	}, {
+		"country": "Japan",
+		"value": 0.6
+	}, {
+		"country": "Brazil",
+		"value": 0.1
+	}],
 	"uptime": [{
 		"unix": 1598918400,
 		"value": 99.7
